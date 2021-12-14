@@ -2,22 +2,19 @@
     <div class='impressum'>
         <h1>Impressum</h1>
         <p>Angaben gemäß § 5 TMG</p>
-        <p>Max Muster
-        <br>Musterweg<br> 
-        12345 Musterstadt <br> 
+        <p>Brivals
+        <br>Kielerstraße 388<br> 
+        22525 Hamburg <br> 
         </p>
         <p> 
         <strong>Vertreten durch: </strong>
-        <br>Max Muster<br>
+        <br>Sofian Bello<br>
         </p>
         <p>
         <strong>Kontakt:</strong>
-        <br>Telefon: 01234-789456
-        <br>Fax: 1234-56789
-        <br>E-Mail: <a href='mailto:max@muster.de'>max@muster.de</a>
+        <br>Telefon: 0151-45078551
+        <br>E-Mail: <a href='mailto:team.brivals@gmail.com'>team.brivals@gmail.com</a>
         </p>
-        <p><strong>Aufsichtsbehörde:</strong>
-        <br>Musteraufsicht Musterstadt<br></p>
         <p><strong>Haftungsausschluss: </strong><br><br>
         <strong>Haftung für Inhalte</strong><br>
         <br>Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.<br>
