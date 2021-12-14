@@ -14,7 +14,7 @@
         <strong>Kontakt:</strong>
         <br>Telefon: 01234-789456
         <br>Fax: 1234-56789
-        <br>E-Mail: <a href='mailto:max@muster.de'>max@muster.de</a></br></p>
+        <br>E-Mail: <a href='mailto:max@muster.de'>max@muster.de</a>
         </p>
         <p><strong>Aufsichtsbehörde:</strong>
         <br>Musteraufsicht Musterstadt<br></p>
