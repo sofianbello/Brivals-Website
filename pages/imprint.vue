@@ -13,8 +13,7 @@
         <p>
         <strong>Kontakt:</strong>
         <br>Telefon: 0151-45078551
-        <br>E-Mail: <a href='mailto:team.brivals@gmail.com'>team.brivals@gmail.com</a></br></p>
-        </p>
+        <br>E-Mail: <a href='mailto:team.brivals@gmail.com'>team.brivals@gmail.com</a><br></p>
         <p><strong>Aufsichtsbehörde:</strong>
         <br>Musteraufsicht Musterstadt<br></p>
         <p><strong>Haftungsausschluss: </strong><br><br>
