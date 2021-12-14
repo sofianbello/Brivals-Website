@@ -2,7 +2,7 @@
     <div class="tw-container">
        <iframe
             class="twitch-embed"
-            src="https://player.twitch.tv/?channel=brivals&enableExtensions=false&muted=true&parent=www.brivals.tv&player=popout&volume=0.3&autoplay=true" 
+            src="https://player.twitch.tv/?channel=brivals&enableExtensions=false&parent=www.brivals.tv&player=popout&volume=0.3&autoplay=true" 
             height="1080" 
             width="1920" 
             frameborder="0" 

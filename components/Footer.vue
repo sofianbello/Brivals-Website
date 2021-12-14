@@ -17,6 +17,8 @@ export default {
 <style>
 a {
     font-size: 0.75rem;
+    font-weight: 400;
+    
     color: #EFC566;
 }
 
