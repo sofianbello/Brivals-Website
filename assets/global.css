@@ -42,6 +42,13 @@ nav a {
     color: #EFC566;
     transition: all 0.3s ease-in-out;
 }
+nav span {
+    font-size: 2.5rem;
+    font-weight: 600;
+    text-decoration: none;
+    color: #EFC566;
+    transition: all 0.3s ease-in-out;
+}
 a {
     
     font-weight: 300;

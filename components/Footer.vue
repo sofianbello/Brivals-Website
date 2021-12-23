@@ -1,7 +1,7 @@
 <template>
     <div>
         <footer class="footer">
-            <NuxtLink to="/imprint">Imprint</NuxtLink>
+            <NuxtLink to="/imprint">Impressum</NuxtLink>
             <!-- <div>Sitemap</div>
             <div>Legal</div> -->
         </footer>
