@@ -11,7 +11,7 @@
         </div>
         <div class="twitch-chat">
             <iframe
-            frameborder="0" gi
+            frameborder="0"
             src="https://www.twitch.tv/embed/brivals/chat?darkpopout&parent=www.brivals.tv"
             height="1080"
             width="450">
