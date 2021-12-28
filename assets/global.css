@@ -34,20 +34,39 @@ nav div {
     height: 12.5%;
     width: 12.5%;
 }
-
-nav a {
-    font-size: 2.5rem;
-    font-weight: 600;
-    text-decoration: none;
-    color: #EFC566;
-    transition: all 0.3s ease-in-out;
+/* Semi-Responsive Nav Desktop */
+@media screen and (min-width: 601px) {
+    nav a {
+        font-size: 2.5rem;
+        font-weight: 600;
+        text-decoration: none;
+        color: #EFC566;
+        transition: all 0.3s ease-in-out;
+    }
+    nav span {
+        font-size: 2.5rem;
+        font-weight: 600;
+        text-decoration: none;
+        color: #EFC566;
+        transition: all 0.3s ease-in-out;
+    }
 }
-nav span {
-    font-size: 2.5rem;
-    font-weight: 600;
-    text-decoration: none;
-    color: #EFC566;
-    transition: all 0.3s ease-in-out;
+/* Semi-Responsive Nav Mobile */
+@media screen and (max-width: 600px) {
+    nav a {
+        font-size: 1rem;
+        font-weight: 600;
+        text-decoration: none;
+        color: #EFC566;
+        transition: all 0.3s ease-in-out;
+    }
+    nav span {
+        font-size: 1rem;
+        font-weight: 600;
+        text-decoration: none;
+        color: #EFC566;
+        transition: all 0.3s ease-in-out;
+    }
 }
 a {
     
@@ -56,6 +75,7 @@ a {
     color: #fff;
     transition: all 0.3s ease-in-out;
 }
+
 nav a:hover {
     color: #fff;
     
@@ -80,19 +100,52 @@ footer div {
     color: #EFC566;
 }
 
-div.tw-container {
-    display: block;
-    background-color: #18181b;
-    margin: 0 auto;
-    max-height: 85%;
-    max-width: 85%;
+.twitch {
     border: 5px solid #EFC566;
-    justify-items: center;
-    align-items: center;
-    box-shadow: 0px 9px 22px 15px rgba(0,0,0,0.44)
-    
-
 }
+
+.twitch .twitch-video {
+    padding-top: 56.25%;
+    position: relative;
+    max-height: 70vh;
+}
+
+.twitch .twitch-video iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+}
+
+.twitch .twitch-chat {
+    height: 400px;
+}
+
+.twitch .twitch-chat iframe {
+    width: 100%;
+    height: 100%;
+}
+
+@media screen and (min-width: 1025px) {
+    .twitch {
+      position: relative;
+    }
+  
+    .twitch .twitch-video {
+      width: 75%;
+      padding-top: 42.1875%;
+    }
+  
+    .twitch .twitch-chat {
+      width: 25%;
+      height: auto;
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+    }
+  }
+
 div.yt-container {
     display: block;
     background-color: #18181b;
@@ -106,21 +159,12 @@ div.yt-container {
     
 
 }
-iframe.twitch-embed {
-    display: inline-block;
-    max-width: 74.5%;
-    max-height: 70vh;
-}
-iframe.twitch-chat {
-    display: inline-block;
 
-    max-width: 25%;
-    max-height: 70vh;
-
-}
 iframe.youtube-embed {
     max-height: 70vh;
     max-width: 100%;
 }
+
+
 
 

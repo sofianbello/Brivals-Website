@@ -23,7 +23,7 @@ export default {
       { rel: 'icon', type: 'image/png', href: '/favicon.png' },
       { rel: 'icon', type: 'image/svg+xml', href: '/favicon.svg' },
       { rel: 'mask-icon', href: '/safari-pinned-tab.svg', color:'#1b1b1b' },
-      { rel: 'manifest', href: '/site.webmanifest' }
+      { rel: 'manifest', href: '/site.webmanifest' },
     ]
   },
 
@@ -34,6 +34,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    { src: '~/assets/js/index.js', mode: "client" } 
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
