@@ -4,16 +4,14 @@
         <nav>
             <!-- <NuxtLink to='/'>Home</NuxtLink> -->
             
-            <NuxtLink to='/Twitch'>Twitch</NuxtLink>
+            <NuxtLink to='/'>Twitch</NuxtLink>
             <span>•</span>
             <NuxtLink to='/Youtube'>Youtube</NuxtLink>
             <span>•</span>
             <a href=" https://forms.gle/kxrzrcM25qferaMD7">Mitmachen</a>
-            <span>•</span>
-            <NuxtLink to='/about'>Über Uns</NuxtLink>
-            <!-- <NuxtLink to='/about'>BRIVALS</NuxtLink> -->
-            <!-- <NuxtLink to='/'>Kontakt</NuxtLink> -->
-        </nav>
+            <!-- <span>•</span> -->
+            <!-- <NuxtLink to='/about'>Über Uns</NuxtLink> -->
+        </nav> 
     </div>
 </template>
 
